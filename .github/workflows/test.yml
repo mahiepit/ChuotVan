@@ -19,3 +19,11 @@ jobs:
       - run: npm test
       - name: Chấm thử
         run: node bin/chuot-van.mjs tests/fixtures/van-nguoi.md --max 15
+
+  skilllint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: mahiepit/SkillLint@v1
+        with:
+          strict: "true"

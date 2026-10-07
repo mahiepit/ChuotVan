@@ -148,6 +148,13 @@ Không có dependency nào. Chạy `npm test` để kiểm tra.
 
 Gặp cụm từ "giọng AI" mà công cụ chưa bắt? Mở [issue](https://github.com/mahiepit/ChuotVan/issues) kèm câu ví dụ, hoặc gửi PR thêm luật vào [`rules.mjs`](skills/chuot-van/scripts/rules.mjs) cùng một test trong [`tests/`](tests). Luật mới cần một test "bắt được" và một test "không bắt nhầm" văn người viết.
 
+## 🔗 Dự án khác
+
+- **[ControlPhone](https://github.com/mahiepit/ControlPhone)**: điều khiển nhiều điện thoại Android cùng lúc, xem màn hình trực tiếp
+- **[DiaChiMoi](https://github.com/mahiepit/DiaChiMoi)**: chuyển địa chỉ cũ sang đơn vị hành chính mới sau sáp nhập 2025
+- **[SkillLint](https://github.com/mahiepit/SkillLint)**: kiểm tra SKILL.md có hợp lệ và chạy được trên mọi agent
+- **[PaperViet](https://github.com/mahiepit/PaperViet)**: đọc bài báo khoa học tiếng Anh bằng tiếng Việt
+
 ## ❤️ Ủng hộ dự án
 
 Chuốt Văn miễn phí và sẽ luôn miễn phí. Nếu nó giúp bạn tiết kiệm thời gian, một khoản ủng hộ nhỏ giúp dự án được duy trì. Cảm ơn bạn!

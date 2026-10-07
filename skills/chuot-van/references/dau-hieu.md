@@ -4,6 +4,18 @@ Mỗi mục: dấu hiệu → vì sao nó lộ → cách sửa, kèm ví dụ tr
 
 Một dấu hiệu đơn lẻ chưa nói lên gì: người thật cũng viết "Tuy nhiên", "đáng kể". Văn có mùi AI khi **nhiều dấu hiệu dồn lại trong một đoạn ngắn**.
 
+## Mục lục
+
+- [1. Câu mở và kết kiểu chatbot](#1-câu-mở-và-kết-kiểu-chatbot)
+- [2. Cấu trúc dịch từ tiếng Anh](#2-cấu-trúc-dịch-từ-tiếng-anh)
+- [3. Danh từ hóa](#3-danh-từ-hóa)
+- [4. Từ sáo rỗng, phóng đại](#4-từ-sáo-rỗng-phóng-đại)
+- [5. Từ nối đầu câu dày đặc](#5-từ-nối-đầu-câu-dày-đặc)
+- [6. Rào đón](#6-rào-đón)
+- [7. Định dạng](#7-định-dạng)
+- [8. Nhịp văn](#8-nhịp-văn)
+- [9. Những thứ máy không bắt được](#9-những-thứ-máy-không-bắt-được-phải-tự-đọc)
+
 ---
 
 ## 1. Câu mở và kết kiểu chatbot

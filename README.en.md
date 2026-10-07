@@ -73,6 +73,13 @@ const { score, verdict, findings } = analyze(text);
 
 The score is a signal, not an AI detector: humans also write "tuy nhiên" (*however*). Text smells of AI when many tells pile up in a short passage.
 
+## 🔗 More projects
+
+- **[ControlPhone](https://github.com/mahiepit/ControlPhone)**: control many Android phones at once from your PC
+- **[DiaChiMoi](https://github.com/mahiepit/DiaChiMoi)**: convert old Vietnamese addresses to the 2025 administrative units
+- **[SkillLint](https://github.com/mahiepit/SkillLint)**: lint Agent Skills (SKILL.md) for every coding agent
+- **[PaperViet](https://github.com/mahiepit/PaperViet)**: read English research papers in Vietnamese
+
 ## ❤️ Support the project
 
 Chuốt Văn is free and always will be. If it saves you time, a donation keeps it maintained and improving. Thank you!

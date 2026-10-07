@@ -2,6 +2,11 @@
 
 Mỗi ví dụ có bản gốc (văn AI điển hình), bản đã chuốt và ghi chú. Điểm là kết quả của `scripts/check.mjs`.
 
+- [1. Bài blog sức khỏe](#1-bài-blog-sức-khỏe)
+- [2. Mô tả sản phẩm](#2-mô-tả-sản-phẩm)
+- [3. Email công việc](#3-email-công-việc)
+- [4. Bài đăng mạng xã hội](#4-bài-đăng-mạng-xã-hội)
+
 ---
 
 ## 1. Bài blog sức khỏe
