@@ -1,0 +1,13 @@
+{
+  "name": "chuot-van",
+  "version": "1.0.0",
+  "description": "Chuốt văn tiếng Việt — viết lại văn AI, văn dịch máy thành văn tự nhiên như người Việt viết, kèm công cụ chấm \"mùi AI\".",
+  "author": {
+    "name": "Thảo Gia",
+    "url": "https://github.com/mahiepit"
+  },
+  "homepage": "https://github.com/mahiepit/ChuotVan",
+  "repository": "https://github.com/mahiepit/ChuotVan",
+  "license": "MIT",
+  "keywords": ["vietnamese", "writing", "humanizer", "tieng-viet"]
+}

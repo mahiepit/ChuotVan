@@ -1,0 +1,43 @@
+{
+  "name": "chuot-van",
+  "version": "1.0.0",
+  "description": "Chuốt văn tiếng Việt: agent skill + CLI biến văn AI, văn dịch máy thành văn tự nhiên như người Việt viết.",
+  "type": "module",
+  "bin": {
+    "chuot-van": "bin/chuot-van.mjs"
+  },
+  "exports": "./skills/chuot-van/scripts/check.mjs",
+  "files": [
+    "bin",
+    "skills",
+    ".claude-plugin",
+    "README.md",
+    "README.en.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test tests/",
+    "check": "node bin/chuot-van.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "vietnamese",
+    "tieng-viet",
+    "humanizer",
+    "ai-text",
+    "agent-skills",
+    "claude-code",
+    "skill",
+    "writing"
+  ],
+  "author": "Thảo Gia (https://github.com/mahiepit)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahiepit/ChuotVan.git"
+  },
+  "homepage": "https://github.com/mahiepit/ChuotVan#readme",
+  "bugs": "https://github.com/mahiepit/ChuotVan/issues"
+}

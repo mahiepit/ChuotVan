@@ -1,0 +1,19 @@
+{
+  "name": "chuot-van",
+  "owner": {
+    "name": "Thảo Gia",
+    "url": "https://github.com/mahiepit"
+  },
+  "metadata": {
+    "description": "Chuốt văn tiếng Việt cho Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "chuot-van",
+      "source": "./",
+      "description": "Viết lại văn AI, văn dịch máy thành văn tiếng Việt tự nhiên, kèm công cụ chấm \"mùi AI\".",
+      "version": "1.0.0",
+      "category": "writing"
+    }
+  ]
+}
